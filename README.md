@@ -16,3 +16,14 @@ Visualising the data on a log-scale shows a logaraithmic relationship between *t
 | Gradient Boost (Logged Data)| 1.53        | 1.18          | 0.42 |
 | CatBoost (Logged Data)      | 1.53        | 1.18          | 0.42 |
 | YDF (logged Data)           | 1.53        | 1.18          | 0.42 |
+
+## Second Approach 
+
+Reshuffled the data and got a new train and test data set. Here are the result after using the previous models 
+
+| Model                       | RMSE        | MAE           | R2   |
+| --------------------------- | ----------- | ------------- | ---- |
+| AdaBoost (Logged Data)      | 1.47        | 1.12          | 0.44 |
+| Gradient Boost (Logged Data)| 1.46        | 1.11          | 0.45 |
+| CatBoost (Logged Data)      | 1.46        | 1.11          | 0.45 |
+| YDF (logged Data)           | 1.46        | 1.11          | 0.45 |
