@@ -1,5 +1,5 @@
 
 .ipynb_checkpoints/
 /notebooks/catboost_info
-/data/
+data
 .gitignore
