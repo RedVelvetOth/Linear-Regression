@@ -27,3 +27,15 @@ Reshuffled the data and got a new train and test data set. Here are the result a
 | Gradient Boost (Logged Data)| 1.46        | 1.11          | 0.45 |
 | CatBoost (Logged Data)      | 1.46        | 1.11          | 0.45 |
 | YDF (logged Data)           | 1.46        | 1.11          | 0.45 |
+
+## DNN Model
+
+| Layer (type)  | Output Shape |
+| Normalization | (None, 1)    |
+| Dense         | (None, 64)   |
+| Dense_1       | (None, 64)   |
+| Dense_2       | (None, 1)    |
+
+| Model                       | RMSE        | MAE           | R2   |
+| --------------------------- | ----------- | ------------- | ---- |
+| DNN (Logged Data)           | 1.46        | 1.10          | 0.46 |
