@@ -31,6 +31,7 @@ Reshuffled the data and got a new train and test data set. Here are the result a
 ## DNN Model
 
 | Layer (type)  | Output Shape |
+| ------------- | ------------ |
 | Normalization | (None, 1)    |
 | Dense         | (None, 64)   |
 | Dense_1       | (None, 64)   |
