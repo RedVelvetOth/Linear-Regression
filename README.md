@@ -15,7 +15,8 @@ Visualising the data on a log-scale shows a logaraithmic relationship between *t
 | AdaBoost (Logged Data)      | 1.56        | 1.21          | 0.39 |
 | Gradient Boost (Logged Data)| 1.53        | 1.18          | 0.42 |
 | CatBoost (Logged Data)      | 1.53        | 1.18          | 0.42 |
-| YDF (logged Data)           | 1.53        | 1.18          | 0.42 |
+| YDF (Logged Data)           | 1.53        | 1.18          | 0.42 |
+| SVM (Logged Data)           | 1.52        | 1.16          | 0.42 |
 
 ## Second Approach 
 
